@@ -11,7 +11,7 @@ A fully responsive "Tech-Store" web project
 To learn html 5/css to make responsive webpages.
 
 ### Online course
-I followed an online course taught by Chris Dixon on Skillshare
+I followed an online course taught by [Chris Dixon on Skillshare](https://www.skillshare.com/profile/Chris-Dixon/4242758)
 I learn't how to use HTML learning things such as:
 * Setting up a HTML project
 * HTML Structure
